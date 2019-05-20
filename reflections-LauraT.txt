@@ -1,0 +1,28 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+* What new skills have you learned?
+* What has been easy?
+* What has been difficult?
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+Your response goes here!
+---
+
+* What new skills have you learned?
+
+Through this project I learned how to use new elements such as <s> (strikethrough), <sup> (superscript) and <hr> (horizontal rule). 
+
+* What has been easy?
+
+I've gotten pretty good at using basic elements like <p>, <h1>, <i> or <b>. 
+
+* What has been difficult?
+
+It's a bit of the work to look up on MDN to see how I can perform strikethrough, superscript, and horizontal rule, but it's not that bad and it's fun to learn new elements.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I have learned that when in doubt, check MDN!  It's a great resource and it's easy to understand.  I also always check the examples section on MDN and get a sense of what the outcome would be with a certain element.  That makes it easier to remember the code and use it correctly.  
+
+---
